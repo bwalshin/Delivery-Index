@@ -1,38 +1,8 @@
-<style>
-div{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.button {
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-  background-color: #008CBA;
-  border: 1px solid #1a1f2d;
-  color:#fff;
-  width: auto;
-  height: auto;
-}
-</style>
-
-
 # Project Delivery Index In Workfront
 I built a custom project status report to link with our Workfront system using Javascript and APIs which helps keep our project managers stay productive and save them a collective of ~100+ hours per week per customer.
-
 <br>
 
-<div>
-    <button class="button grid-item" name="button" onclick="https://onedrive.live.com/?authkey=%21AGJROMqr50qXzlM&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137719&parId=91FFA6D0580F1EA9%21137725&o=OneUp">Presentation</button>
-    <button class="button grid-item" name="button" onclick="https://onedrive.live.com/?authkey=%21AO%2DaRfhgqYc7Sbs&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137718&parId=91FFA6D0580F1EA9%21137725&o=OneUp">Recording</button>
-</div>
-
+[Presentation](https://onedrive.live.com/?authkey=%21AGJROMqr50qXzlM&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137719&parId=91FFA6D0580F1EA9%21137725&o=OneUp)    -     [Recording](https://onedrive.live.com/?authkey=%21AO%2DaRfhgqYc7Sbs&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137718&parId=91FFA6D0580F1EA9%21137725&o=OneUp)
 </br>
 
 ## Why build a delivery index?

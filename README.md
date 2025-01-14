@@ -2,7 +2,7 @@
 I built a custom project status report to link with our Workfront system using Javascript and APIs which helps keep our project managers stay productive and save them a collective of ~100+ hours per week per customer.
 <br>
 
-[Presentation](https://onedrive.live.com/?authkey=%21AGJROMqr50qXzlM&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137719&parId=91FFA6D0580F1EA9%21137725&o=OneUp)    -     [Recording](https://onedrive.live.com/?authkey=%21AO%2DaRfhgqYc7Sbs&cid=91FFA6D0580F1EA9&id=91FFA6D0580F1EA9%21137718&parId=91FFA6D0580F1EA9%21137725&o=OneUp)
+[Presentation](https://1drv.ms/b/s!AqkeD1jQpv-RiLN33afJQEzUIWuJ6Q?e=DAmIQ6)    -     [Recording](https://1drv.ms/v/s!AqkeD1jQpv-RiLN2neRfMy71C4WtKA?e=AmPnKK)
 </br>
 
 ## Why build a delivery index?
